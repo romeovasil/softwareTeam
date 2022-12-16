@@ -1,5 +1,5 @@
 start: MOV X, #12 // comentariu
-MOV Y, X -> 001010 1 0 00000000
+MOV Y, X
 ADD X, #1
 ADD X, X
 SUB Y, #1
